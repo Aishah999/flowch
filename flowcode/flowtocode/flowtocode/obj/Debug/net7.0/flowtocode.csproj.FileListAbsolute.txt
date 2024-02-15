@@ -1,0 +1,15 @@
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/bin/Debug/net7.0/flowtocode
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/bin/Debug/net7.0/flowtocode.deps.json
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/bin/Debug/net7.0/flowtocode.runtimeconfig.json
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/bin/Debug/net7.0/flowtocode.dll
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/bin/Debug/net7.0/flowtocode.pdb
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.csproj.AssemblyReference.cache
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.AssemblyInfoInputs.cache
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.AssemblyInfo.cs
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.csproj.CoreCompileInputs.cache
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.dll
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/refint/flowtocode.dll
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.pdb
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/flowtocode.genruntimeconfig.cache
+/Users/aisha/Desktop/flowch/flowcode/flowtocode/flowtocode/obj/Debug/net7.0/ref/flowtocode.dll
